@@ -1,0 +1,7 @@
+﻿  CSVReader.cpp
+C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\CSVReader.cpp(24,35): warning C4101: 'e': unreferenced local variable
+C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\CSVReader.cpp(38,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\CSVReader.cpp(40,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\CSVReader.cpp(59,33): warning C4101: 'e': unreferenced local variable
+C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\CSVReader.cpp(82,31): warning C4101: 'e': unreferenced local variable
+  Merkelrex.vcxproj -> C:\Users\kevin\Desktop\Sem 1\OOP\Advisorbot\x64\Debug\AdvisorBot.exe
