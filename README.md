@@ -6,7 +6,7 @@ AdvisorBot is a command line program that can carry out various tasks to help a 
 
 # Features:
 - List products available on exchange
-- Get Mininmum/Maximum bid/ask of product
-- Get Average bid/ask of product across n timestamps
+- Get Minimum/Maximum bid/ask of product
+- Get Average bid/ask of product across (n) timestamps
 - Predict bid/ask of product for next timestamp (using Exponential Moving Average)
 - Get liquidity of product
